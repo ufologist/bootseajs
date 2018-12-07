@@ -4,4 +4,4 @@
 * Bootstrap v2.3.1
 * SeaJS 2.0.0
 
-![screenshot](https://rawgit.com/ufologist/bootseajs/master/screenshot.png "screenshot")
+![screenshot](https://cdn.jsdelivr.net/gh/ufologist/bootseajs/screenshot.png "screenshot")
